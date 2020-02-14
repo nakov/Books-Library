@@ -12,3 +12,5 @@ The "Books Library" JS frontend app is based:
 **Minimalistic approach**: no framework, no templating, no routing, just executing AJAX calls and changing the DOM tree
 
 Used to train beginners in JavaScript frontend apps.
+
+Video lesson (in Bulgarian): https://youtu.be/xwtofFuNdEo
